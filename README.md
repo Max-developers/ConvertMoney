@@ -10,13 +10,13 @@
 
 Если не установлен то вводим команды в консоль для установки:
 
-# sudo apt update
+ sudo apt update
 
-# sudo apt install python3-pyqt5
+ sudo apt install python3-pyqt5
 
 
 Запуск самой программы из консоли:
 
-# cd ConvertMoney
+ cd ConvertMoney
 
-# python3 setup.py
+ python3 setup.py
